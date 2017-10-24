@@ -12,7 +12,7 @@ When a hurricane or an earthquake strikes, mapathons become a valuable tool to h
 
 Learn more at [Missing Maps](http://www.missingmaps.org/host/).
 
-## A Note for Top Administators
+## A Note for Top Administrators
 
 A mapathon can benefit from full institutional support. If you are a top-administrator, you can use this framework to help you create your own preparedness plan for mapathons suited to your local environment. The most important job you can do is to make sure that the top-level communication channels of the university are available to the organizers to help fill the rooms with volunteers. 
 
