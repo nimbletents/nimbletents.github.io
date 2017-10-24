@@ -9,8 +9,8 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Francesca Giannetti
 - Manan Ahmed
 - Barbara Bartley
-- Eliot Jones
-- Sarah W Lozier
+- Jason Jones
+- Sarah W. Lozier
 - Laurie Allen
 - Purdom Lindblad
 - Dawn Childress

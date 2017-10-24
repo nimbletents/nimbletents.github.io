@@ -9,8 +9,8 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Francesca Giannetti
 - Manan Ahmed
 - Barbara Bartley
-- Eliot Jones
-- Sarah W Lozier
+- Jason Jones
+- Sarah W. Lozier
 - Laurie Allen
 - Purdom Lindblad
 - Dawn Childress
