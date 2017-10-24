@@ -1,0 +1,15 @@
+global:
+  english: English
+  spanish: "en Español"
+  tagline: English
+  title: "The Nimble Tents Toolkit"
+  description: "urgent responses for academic and cultural institutions"
+  contribute: "Contribute"
+
+titles:
+  mapathon: "The Relief Mapathon"
+  datarescue: "The Data Rescue"
+  libguide: "The Flash LibGuide"
+  people: "Credits"
+  nights: "Nights Against Hate"
+  home: "What is the Nimble Tents Toolkit?"
