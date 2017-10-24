@@ -29,3 +29,5 @@ include: ["_pages"]
 
 #i18n
 languages: ["en", "es"]
+
+exclude: ["Gemfile", "Gemfile.lock", "CNAME", "Rakefile"]
