@@ -13,7 +13,8 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Sarah W Lozier
 - Laurie Allen
 - Purdom Lindblad
-- Zoe Borovsky
+- Dawn Childress
+- Zoe Borovski
 
 ## Organizaciones asociadas
 

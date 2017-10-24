@@ -13,6 +13,8 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Sarah W Lozier
 - Laurie Allen
 - Purdom Lindblad
+- Dawn Childress
+- Zoe Borovski
 
 ## Partner Organizations
 
