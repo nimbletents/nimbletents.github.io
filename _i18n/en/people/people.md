@@ -17,6 +17,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Zoe Borovski
 - Yoh Kawano
 - Andy Rutkowski
+- Jason Heppler
 
 ## Partner Organizations
 

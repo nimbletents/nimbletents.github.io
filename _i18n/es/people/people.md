@@ -17,6 +17,7 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Zoe Borovski
 - Yoh Kawano
 - Andy Rutkowski
+- Jason Heppler
 
 ## Organizaciones asociadas
 
