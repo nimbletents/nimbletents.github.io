@@ -15,6 +15,8 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Purdom Lindblad
 - Dawn Childress
 - Zoe Borovski
+- Yoh Kawano
+- Andy Rutkowski
 
 ## Partner Organizations
 
