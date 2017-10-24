@@ -71,7 +71,7 @@ Si todo está en su lugar, los siguientes pasos se pueden implementar en 6-7 dí
 - [Nuestro Google Drive compartido](https://drive.google.com/drive/folders/0B2gLcm5jfVhSZWlpV0JBTVRUdUE?usp=sharing)    
 En nuestra carpeta compartida compilamos Volantes, Carteles, etc. Si deseas contribuir tus materiales, visita nuestra página de contribuciones.
 - [Wiki OSM](http://wiki.openstreetmap.org/wiki/ES:P%C3%A1gina_principal)   
-Estes es un buen recurso para aprender sobre Open Street Maps en español.
+Este es un buen recurso para aprender sobre Open Street Maps en español.
 - [Hosting a Mapathon](http://www.missingmaps.org/host/)   
 Una guía general para mapatones (en inglés).
 
