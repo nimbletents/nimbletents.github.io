@@ -21,7 +21,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Partner Organizations
 
-- [The Digital Library Federation](https://www.clir.org/dlf)
+- [The Digital Library Federation](https://www.diglib.org/)
 - [Columbia University Libraries](http://library.columbia.edu/services/digital-scholarship.html)
 - [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/)
 
