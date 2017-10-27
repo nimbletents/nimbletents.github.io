@@ -2,7 +2,7 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Individuos
 
-- Alex Gil \| Dirigente
+- Alex Gil \| Editor
 - Paige Morgan
 - Vika Zafrin
 - Christina L. Boyles

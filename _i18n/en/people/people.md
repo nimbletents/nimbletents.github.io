@@ -2,7 +2,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Individuals
 
-- Alex Gil, Project Lead
+- Alex Gil \| Editor
 - Paige Morgan
 - Vika Zafrin
 - Christina L. Boyles
