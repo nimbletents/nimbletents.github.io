@@ -66,6 +66,17 @@ Si todo está en su lugar, los siguientes pasos se pueden implementar en 6-7 dí
 4. Comparte con el equipo de comunicaciones la narrativa de los logros.
 5. Asegúrate de dar seguimiento con las organizaciones de socorro en el área del desastre para asegurarte de que sus esfuerzos fueron bien recibidos. Comparte las noticias a través de tus diferentes canales de comunicación.
 
+## Experiencia y el orden de las cosas 
+
+Un proyecto solo se completa parcialmente una vez que se ha realizado un mapa preliminar de fuente abierta. Cualquier proyecto de mapeo en Open Street Maps, por ejemplo, pasa por dos fases antes de que se considere completo y hecho público:
+
+1. Mapeo: el usuario inicial realiza un primer intento de delinear estructuras particulares de interés
+2. Validación: el segundo usuario asegura que las contribuciones de asignación del primero fueron precisas y realiza las correcciones necesarias
+
+El primero solo requiere habilidades básicas y es fácilmente adecuado para un mapatón. La documentación de OSM sugiere que debe tener experiencia para este último, pero los principiantes todavía *pueden* participar de manera útil en el proceso de validación al identificar partes concretas del proceso de revisión y marcar su trabajo para la revisión de otros usuarios con experiencia. Incluso si su evento ocurre una vez que la fase de mapeo está completa, su equipo puede ayudar a completar el proyecto trabajando en el control de calidad.
+
+Consulte los recursos a continuación para obtener tutoriales sobre cómo incorporar la validación en su mapatón.
+
 ## Recursos
 
 - [Nuestro Google Drive compartido](https://drive.google.com/drive/folders/0B2gLcm5jfVhSZWlpV0JBTVRUdUE?usp=sharing)    
