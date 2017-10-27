@@ -14,7 +14,7 @@ Learn more at [Missing Maps](http://www.missingmaps.org/host/).
 
 ## A Note for Top Administrators
 
-A mapathon can benefit from full institutional support. If you are a top-administrator, you can use this framework to help you create your own preparedness plan for mapathons suited to your local environment. The most important job you can do is to make sure that the top-level communication channels of the university are available to the organizers to help fill the rooms with volunteers. 
+A mapathon can benefit from full institutional support. If you are a top-administrator, you can use this framework to help you create your own preparedness plan for mapathons suited to your local environment. The most important job you can do is to make sure that the top-level communication channels of the university are available to the organizers to help fill the rooms with volunteers.
 
 Something else you should consider is giving the option to a large number of your staff to participate in the event. Not only will this increase the amount of relief data, this is bound to increase morale in your institution.
 
@@ -40,7 +40,7 @@ If everything is in place the following steps can be deployed in 6-7 days.
 4. Secure your first room.
 5. Make the poster.
 10. Secure refreshments for the event: Pizza, coffee, fruit, etc.
-11. Create a plan for RSVPs that collects emails of participants. This will not only help you plan, but will allow you to follow up after the event. 
+11. Create a plan for RSVPs that collects emails of participants. This will not only help you plan, but will allow you to follow up after the event.
 6. Blast on every channel you can think of, including the university's main communication office if possible.
 7. If you are the first to jump in the fray, talk to your colleagues at other universities to gauge interesting in turning it into a movement. If others decide to join you, create a hashtag.
 8. Keep blasting leading up to the event on social media. If you connected with others make sure to use the hashtag.
@@ -67,6 +67,17 @@ If everything is in place the following steps can be deployed in 6-7 days.
 4. Follow up with the communications team about post-event narratives.
 5. Make sure to follow up with the relief organizations in the disaster area if you can to make sure your efforts were well received. Share the news through your different communication channels.
 
+## A Note on Skills and Timing
+
+A project is only partially complete once a preliminary open source map has been made. Any mapping project on Open Street Maps, for example, goes through two phases before it is considered complete and made public:
+
+1. Mapping - initial user makes a first pass attempt at outlining particular structures of interest
+2. Validation - second user ensures that the mapping contributions of the first were accurate and makes any necessary corrections
+
+The former requires only basic skills and is easily suitable for a mapathon. The OSM documentation suggests that you need to be experienced for the latter, but beginners can *still* usefully participate in the validation process by pinpointing particular parts of the review process and marking your work for the review of other experienced users. Even if your event happens once the mapping phase is mostly complete, your team can help carry the project to completion by working on this quality control portion of the process.
+
+See the resources below for tutorials on how to incorporate validation into your mapathon.
+
 ## Resources
 
 - [Our Shared Google Drive](https://drive.google.com/drive/folders/0B2gLcm5jfVhSZWlpV0JBTVRUdUE?usp=sharing)    
@@ -79,9 +90,3 @@ This is a more thorough guide on how to organize a mapathon meant for a general 
 ---
 
 > We welcome your feedback. If you have ideas on how to improve this model, don't hesitate to contribute.
-
-
-
-
-
-
