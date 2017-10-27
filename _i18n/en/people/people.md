@@ -1,4 +1,4 @@
-The Nimble Tents Toolkit is a community project that has been enriched by conversations over mailing lists, in person, social media, and anywhere that productive ideas are exchanged. 
+The Nimble Tents Toolkit is a community project that has been enriched by conversations over mailing lists, in person, social media, and other spaces where productive ideas are exchanged. 
 
 ## Individuals
 
