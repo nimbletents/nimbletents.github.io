@@ -71,8 +71,8 @@ If everything is in place the following steps can be deployed in 6-7 days.
 
 A project is only partially complete once a preliminary open source map has been made. Any mapping project on Open Street Maps, for example, goes through two phases before it is considered complete and made public:
 
-1. Mapping - initial user makes a first pass attempt at outlining particular structures of interest
-2. Validation - second user ensures that the mapping contributions of the first were accurate and makes any necessary corrections
+1. Mapping: Initial user makes a first pass attempt at outlining particular structures of interest.
+2. Validation: Second user ensures that the mapping contributions of the first were accurate and makes any necessary corrections.
 
 The former requires only basic skills and is easily suitable for a mapathon. The OSM documentation suggests that you need to be experienced for the latter, but beginners can *still* usefully participate in the validation process by pinpointing particular parts of the review process and marking your work for the review of other experienced users. Even if your event happens once the mapping phase is mostly complete, your team can help carry the project to completion by working on this quality control portion of the process.
 
