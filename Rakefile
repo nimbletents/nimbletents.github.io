@@ -11,7 +11,7 @@ require "jekyll"
 require 'tmpdir'
 
 # Github pages publishing.
-namespace :blog do
+namespace :prod do
   #
   # Because we are using 3rd party plugins for jekyll to manage the asset pipeline
   # and suchlike we are unable to just branch the code, we have to process the site
@@ -22,7 +22,7 @@ namespace :blog do
 
   # Usaage:
   # bundle exec rake blog:publish
-  desc "Publish blog to gh-pages"
+  desc "Publish site to Github Pages"
   task :publish do
     # Compile the Jekyll site using the config.
     Jekyll::Site.new(Jekyll.configuration({
@@ -50,8 +50,8 @@ namespace :blog do
       # Add the origin remote for the parent repo to the tmp folder.
       system "git remote add origin #{origin}"
 
-      # Push the files to the gh-pages branch, forcing an overwrite.
-      system "git push origin master:refs/heads/gh-pages --force"
+      # Push the files to the master branch, forcing an overwrite.
+      system "git push origin master:refs/heads/master --force"
     end
 
     # Done.
