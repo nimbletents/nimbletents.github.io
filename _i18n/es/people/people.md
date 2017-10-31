@@ -37,7 +37,7 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Reconocimientos
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
 
 ## Mantenimiento y traducción
 

@@ -40,7 +40,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Acknowledgments
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
 
 ## Site Maintenance & Translations
 
