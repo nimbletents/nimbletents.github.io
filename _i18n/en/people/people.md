@@ -7,12 +7,14 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## The Relief Mapathon
 
-- Alex Gil
-- Brandon Walsh
-- Dawn Childress
 - Zoe Borovski
+- Dawn Childress
+- Alex Gil
 - Yoh Kawano
+- Andy Rutkowski
+- Brandon Walsh
 - Sarah Whitcomb Lozier-Laiola
+
 
 ## The Data Rescue
 
@@ -38,7 +40,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Acknowledgments
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Andy Rutkowski.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie.
 
 ## Site Maintenance & Translations
 
