@@ -3,7 +3,9 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 ## Editorial Board
 
 - Alex Gil, Editor
+- Francesca Giannetti
 - Vika Zafrin
+- Jason Jones
 
 ## The Relief Mapathon
 
@@ -40,7 +42,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Acknowledgments
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
 
 ## Site Maintenance & Translations
 

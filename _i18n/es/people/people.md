@@ -3,7 +3,9 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 ## Equipo Editorial
 
 - Alex Gil, Editor
+- Francesca Giannetti
 - Vika Zafrin
+- Jason Jones
 
 ## El Mapatón de Ayuda
 
@@ -37,7 +39,7 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Reconocimientos
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Francesca Giannetti, Jason Heppler, Jason Jones, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
 
 ## Mantenimiento y traducción
 
