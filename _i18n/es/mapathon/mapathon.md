@@ -15,7 +15,7 @@ Obtén más información en [Missing Maps](http://www.missingmaps.org/host/) (en
 
 ## Una nota para la alta dirección
 
-Un mapatón funciona mejor con apoyo institucional completo. Si eres un administrador de alto rango, puedes usar este marco para crear tu propio guía de acción para las mapatones, adaptado a los requisitos de tu organización. El trabajo más importante que puedes hacer es asegurarte de que los canales de comunicación de alto nivel de la universidad o la organización estén disponibles para llenar los asientos de voluntarios.
+Un mapatón puede atraer grán atención positiva a tu grupo y ayudarte a construir conexiones alrededor de tu recinto. A su vez, un mapatón funciona mejor con apoyo institucional completo y tu ayuda en particular. Si eres un administrador de alto rango, puedes usar este marco para crear tu propio guía de acción para las mapatones, adaptado a los requisitos de tu organización. El trabajo más importante que puedes hacer es asegurarte de que los canales de comunicación de alto nivel de la universidad o la organización estén disponibles para llenar los asientos de voluntarios.
 
 Otra cosa que puedes considerar es darle la opción a una gran cantidad de tu personal de participar en el evento. Esto no solo aumentará la cantidad de información geográfica, sino que también aumentará la moral en tu institución.
 
@@ -23,7 +23,7 @@ Otra cosa que puedes considerar es darle la opción a una gran cantidad de tu pe
 
 No tienes que esperar hasta que llegue el desastre para comenzar los preparativos para tu institución y tu equipo. Estas son algunas de las cosas que puedes hacer para reaccionar de manera más eficiente el día en que si ocurra un desastre y desees ayudar:
 
-- **Salones**: Haz una lista de los salones disponibles y adecuados para un mapatón. Dependiendo de tu público, es posible que desees identificar habitaciones que tengan una combinación de computadoras fijas y mesas para computadoras portátiles; a otros les convendrán una gran sala con mesas o escritorios para portátiles solas. Mantenga la lista de esas habitaciones de fácil acceso.
+- **Salones**: Haz una lista de los salones disponibles y adecuados para un mapatón. Dependiendo de tu público, es posible que desees identificar habitaciones que tengan una combinación de computadoras fijas y mesas para computadoras portátiles; a otros les convendrán una gran sala con mesas o escritorios para portátiles solas. Mantenga la lista de esas habitaciones de fácil acceso. Asegurate que los salones tengan electricidad adecuada y buen internet.
 
 - **Comunicaciones**: Indaga con tu equipo de comunicaciones qué tipo de capacidad de respuesta rápida tienen. Asegúrate de que el equipo de comunicación de la universidad de más alcance también esté listo para ayudarlos a llenar el salón o los salones. Identifica qué redes te son disponibles o a tu equipo en las redes sociales o por correo electrónico, y lístalas. Prepara una plantilla para un póster y tenla lista. Recomendamos diseñar con el respeto que se merece la gravedad de la situación sin sacrificar la atención que se necesita.
 

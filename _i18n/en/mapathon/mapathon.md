@@ -14,7 +14,7 @@ Learn more at [Missing Maps](http://www.missingmaps.org/host/).
 
 ## A Note for Top Administrators
 
-A mapathon can benefit from full institutional support. If you are a top-administrator, you can use this framework to help you create your own preparedness plan for mapathons suited to your local environment. The most important job you can do is to make sure that the top-level communication channels of the university are available to the organizers to help fill the rooms with volunteers.
+A mapathon can bring substantial positive attention to your office, and help you build many connections around your campus. A mapathon, in turn, can benefit from full institutional support and your help. If you are a top-administrator, you can use this framework to help you create your own preparedness plan for mapathons suited to your local environment. The most important job you can do is to make sure that the top-level communication channels of the university are available to the organizers to help fill the rooms with volunteers.
 
 Something else you should consider is giving the option to a large number of your staff to participate in the event. Not only will this increase the amount of relief data, this is bound to increase morale in your institution.
 
@@ -23,7 +23,7 @@ Something else you should consider is giving the option to a large number of you
 
 You don't have to wait until disaster hits to begin preparations for your institution and your team. Here are some of the things you can do to react more efficiently the day that disaster does strike, and you want to help out:
 
-- **Rooms**: Do a survey of the rooms available to you that are amenable for mapathons. Depending on your public, you might want to identify rooms that have a combination of PCs and tables for laptops; others might be better served by a large room with tables or desks for laptops alone. Keep the list of those rooms easily accessible.
+- **Rooms**: Do a survey of the rooms available to you that are amenable for mapathons. Depending on your public, you might want to identify rooms that have a combination of PCs and tables for laptops; others might be better served by a large room with tables or desks for laptops alone. Keep the list of those rooms easily accessible. Make sure the rooms have a good amount of outlets and good Internet. You can supplement with extension chords.
 
 - **Communications**: Talk to your communications team to see what kinds of rapid-response capacity they have. Make sure the university's top communication team is also ready to help you fill the room(s). Identify what networks are available to you or your team directly on social media or email, and keep a list. Prepare a template for a mapathon poster and have that ready. We recommend you design for respect for the gravity of the situation without sacrificing attention-grabbing.
 
