@@ -1,0 +1,17 @@
+global:
+  english: "in English"
+  spanish: "en español"
+  french: "en français"
+  tagline: Français
+  title: "Les tentes agiles"
+  description: "Réponses rapides pour les institutions académiques et culturelles"
+  contribute: "Contribuer"
+
+titles:
+  mapathon: "La cartopartie"
+  datarescue: "Le sauvetage des données"
+  libguide: "Le libguide éclair"
+  people: "Crédits"
+  nights: "Nuits contre la haine"
+  home: "Qu'est-ce qu'une tente agile?"
+  contribute: "Contribuer"

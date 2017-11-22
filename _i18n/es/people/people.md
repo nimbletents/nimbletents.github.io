@@ -41,7 +41,12 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
 
-## Mantenimiento y traducción
+## Mantenimiento
 
 - Alex Gil
+
+## Traducción
+
+- Español: Alex Gil
+- Francés: Nadine Mondestin
 

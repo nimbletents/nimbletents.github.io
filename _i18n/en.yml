@@ -1,6 +1,7 @@
 global:
-  english: English
-  spanish: "en Español"
+  english: "in English"
+  spanish: "en español"
+  french: "en français"
   tagline: English
   title: "The Nimble Tents Toolkit"
   description: "urgent responses for academic and cultural institutions"

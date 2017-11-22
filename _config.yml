@@ -28,6 +28,6 @@ version:          2.0.0
 include: ["_pages"]
 
 #i18n
-languages: ["en", "es"]
+languages: ["en", "es", "fr"]
 
 exclude: ["Gemfile", "Gemfile.lock", "CNAME", "Rakefile"]
