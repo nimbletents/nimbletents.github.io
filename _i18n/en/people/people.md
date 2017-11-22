@@ -44,7 +44,12 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
 
-## Site Maintenance & Translations
+## Site Maintenance
 
 - Alex Gil
+
+## Translation
+
+- To Spanish: Alex Gil
+- To English: Nadine Mondestin
 
