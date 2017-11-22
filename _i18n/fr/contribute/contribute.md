@@ -1,6 +1,6 @@
-We are always looking for ideas and ways to improve our models. If you would like to become a contributor you can do so several ways.
+Nous sommes toujours à la recherche d'idées et de moyens pour améliorer nos modèles. Si vous souhaitez devenir un contributeur, vous pouvez le faire de plusieurs façons.
 
-For minor edits to existing pages, simply create a pull request on [our GitHub page](https://github.com/nimbletents/nimbletents.github.io/tree/source), or leave an issue. 
+Pour les modifications mineures apportées aux pages existantes, créez simplement une demande d'extraction sur [notre page GitHub](https://github.com/nimbletents/nimbletents.github.io/tree/source), ou laissez un problème.
 
-If you would like to discuss an idea or contribute a full page, please write to Alex Gil at agil@columbia.edu.
+Si vous souhaitez discuter d'une idée ou contribuer à une page complète, veuillez écrire à Alex Gil à agil@columbia.edu.
 
