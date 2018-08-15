@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div class="sidebar">
+  <!--  <div class="container sidebar-sticky"> -->
+  <div align="center">
+    <div class="sidebar-about">
+      <a href="{{ site.baseurl }}/">
+        <h1>{% t global.title %}</h1>
+      </a>
+        <img src="{{ site.baseurl }}/images/hummingbird.png" width="250" height="150"/>
+    </div>
+    <ul class="sidebar-nav">
+      <!-- The list below is dynamically generated using "% t node.title %" instead of  "{ node.title}" -->
+      {% assign pages_list = site.pages %}
+            {% for node in pages_list %}
+                    {% if node.title != null %}
+                              {% if node.layout == "page" %}
+          <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
+            <a href="{{ site.baseurl }}{{ node.url }}">{% t node.title %}</a>
+          </li>
+                              {% endif %}
+                    {% endif %}
+            {% endfor %}
+          <li class="sidebar-nav-item">{% t titles.datarescue %}</li>
+          <li class="sidebar-nav-item">{% t titles.libguide %}</li>
+          <li class="sidebar-nav-item">{% t titles.nights %}</li>
+
+          <li class="sidebar-nav-item"><a href="{{site.baseurl}}/people/">{% t titles.people %}</a></li>
+          <li class="sidebar-nav-item"><a href="{{site.baseurl}}/contribute/">{% t global.contribute %}</a></li>
+      </ul>
+
+        {% if site.lang == "es" %}
+          <p class="languages">
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+            <a href="{{ link1 }}" >{% t global.english %}</a>
+            <br>
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}<a href="{{ link3 }}">{% t global.french %}</a>
+          </p>
+        {% elsif site.lang == "en" %}
+          <p class="languages">
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">{% t global.spanish %}</a>
+        <br>
+            {% capture link3 %}{{ site.baseurl_root }}/fr{{ page.url  }}{% endcapture %}<a href="{{ link3 }}">{% t global.french %}</a>
+          </p>
+
+        {% elsif site.lang == "fr" %}
+          <p class="languages">
+            {% capture link2 %}{{ site.baseurl_root }}/es{{ page.url  }}{% endcapture %}    <a href="{{ link2 }}">{% t global.spanish %}</a>
+        <br>
+            {% capture link1 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+            <a href="{{ link1 }}" >{% t global.english %}</a>
+          </p>
+
+        {% endif %}
+
+      <p>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+        </a>
+      </p>
+        </div>
+      </div>
