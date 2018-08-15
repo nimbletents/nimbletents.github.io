@@ -1,4 +1,4 @@
-El botiquín de campaña veloz es un proyecto colectivo, enriquecido por conversaciones en listas de correo, en persona, en las redes sociales y en tantos otros espacios donde se intercambian ideas productivas. 
+El botiquín de campaña veloz es un proyecto colectivo, enriquecido por conversaciones en listas de correo, en persona, en las redes sociales y en tantos otros espacios donde se intercambian ideas productivas.
 
 ## Equipo Editorial
 
@@ -16,6 +16,11 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Andy Rutkowski
 - Brandon Walsh
 - Sarah Whitcomb Lozier-Laiola
+
+## El Proyecto de Crisis
+
+- Alex Gil
+- Roopika Risam
 
 ## El Rescate de Datos
 
@@ -39,7 +44,7 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Reconocimientos
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Erin Rose Glass, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira, Danica Savonick, Angelika Strohmayer
 
 ## Mantenimiento
 
@@ -49,4 +54,3 @@ Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozie
 
 - Español: Alex Gil
 - Francés: Nadine Mondestin
-

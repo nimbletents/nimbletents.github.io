@@ -17,6 +17,9 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Brandon Walsh
 - Sarah Whitcomb Lozier-Laiola
 
+## The Crisis Project
+- Alex Gil
+- Roopika Risam
 
 ## The Data Rescue
 
@@ -42,7 +45,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Acknowledgments
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Erin Rose Glass, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira, Danica Savonick, Angelika Strohmayer
 
 ## Site Maintenance
 
@@ -52,4 +55,3 @@ Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozie
 
 - To Spanish: Alex Gil
 - To English: Nadine Mondestin
-

@@ -17,6 +17,10 @@
 - Brandon Walsh
 - Sarah Whitcomb Lozier-Laiola
 
+## Le projet de crise
+
+- Alex Gil
+- Roopika Risam
 
 ## Le sauvetage des données
 
@@ -42,7 +46,7 @@
 
 ## Remerciements
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira.
+Manan Ahmed, Barbara Bartley, Christina L. Boyles, Erin Rose Glass, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira, Danica Savonick, Angelika Strohmayer
 
 ## Maintenance du site
 
@@ -52,4 +56,3 @@ Manan Ahmed, Barbara Bartley, Christina L. Boyles, Jason Heppler, Sarah W. Lozie
 
 - Espagnol: Alex Gil
 - Français: Nadine Mondestin
-
