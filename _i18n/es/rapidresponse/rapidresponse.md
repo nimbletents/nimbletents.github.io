@@ -1,1 +1,1 @@
-## El Proyecto de Crisis
+## La Investigación Rápida
