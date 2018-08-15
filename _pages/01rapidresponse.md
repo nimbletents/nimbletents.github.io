@@ -1,6 +1,6 @@
 ---
 layout: page
-title: titles.rapidreponse
+title: titles.rapidresponse
 permalink: /rapidresponse/
 ---
 {% translate_file rapidresponse/rapidresponse.md %}
