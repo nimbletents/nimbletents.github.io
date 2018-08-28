@@ -4,7 +4,6 @@ Rapid Response Research (RRR) projects are quickly deployed scholarly interventi
 
 Another way of looking at RRR is as a new intervention in the fourth estate, between long-term scholarly commitments and the press. Closer to investigative reporting, but without shedding its scholarly frameworks, RRR breaks through several obstacles of contemporary journalism: a) RRR is not pressured to provide "two sides" to the story; b) despite its speed, RRR does not have as high a demand on turnaround as the press during a crisis; c) RRR can focus on a single project for a sustained period of time, as opposed to the competing demands on major journalistic data teams; d) we do not need to compete for scoops. 
 
-
 ## Does the “Crisis” Need RRR?
 
 A critical first step is determining whether a particular crisis would benefit from RRR. It’s easy to jump to a techno-solutionist conclusion without considering its ramifications or fully understanding the problem. It’s essential to begin by exploring the topic quickly and in great detail to identify possibilities for intervention and to consider the possible consequences of an intervention. We must be self-reflexive about our best intentions to ensure we aren’t hurting, rather than helping. 
@@ -81,6 +80,7 @@ A nimble but clear division of labor is necessary to undertaking RRR. As tasks a
 
 Implementation of one visualization (or other type of narrative) should begin as soon as it’s conceived, even while the rest of the team continues with the research and data wrangling. As good ideas continue to surface, other team members can transition to implementing them. Prototype as you go to test ideas before committing to them, but recognize that part of a nimble workflow is being open to final products that look different than you may have initially intended. Eventually, the general research process ends, and everyone shifts to working on implementation tasks that may include the sort of research associated with smaller tasks, such as filling out or expanding new data sets.
 
+
 ### Audience 
 
 A good idea should be recognized as such by most members of the team depending on the goals. These may be recognized as newsworthy, insightful, simple, surprising, or pressing. When considering ideas emerging within the team, keep in mind the multiple audiences that may encounter your project and the responses you hope to elicit. Such audiences may include the general public; activists, lawyers, politicians, or others in the position to intervene in the crisis; and academics, among others. Successful RRR will appeal to these wildly different audiences by design. Some considerations include:
@@ -141,6 +141,7 @@ One of the goals of these early public moments is to start courting the attentio
 Give yourself several hours for everyone on the core team to see the completed project pre-publication. Some minor tweaks will inevitably arise from this last minute review, so it's important to have most, if not all, hands on deck in the final stretch. If you have colleagues outside of your team poised to amplify your launch on social media, make sure to communicate with them about delays so they don’t inadvertently scoop you while your team is working on finishing touches.
 
 Here's a checklist of items you should have in place to make sure you are ready for what's next:
+
 * Several pre-composed tweets and posts with highlights and reflections on the project.
 * A finalized press release.
 * A project email alias listed on the site to receive requests and queries.
