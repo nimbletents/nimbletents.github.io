@@ -114,13 +114,13 @@ Considering the main publishing mechanism for the results of your RRR will likel
 - Don't depend solely on visuals or interface. Leverage the power of prose, and let it do its work.
 
 Some common components that facilitate the development process:
-D3/JavaScript/JSON/Leaflet
-CSVs
-Git/Github/Pages
-Jekyll (incl. Markdown/YAML/Liquid)
-Python or Ruby for scripting independent tasks
-Google Sheets/Docs
-Telegram or Signal
+- D3/JavaScript/JSON/Leaflet
+- CSVs
+- Git/Github/Pages
+- Jekyll (incl. Markdown/YAML/Liquid)
+- Python or Ruby for scripting independent tasks
+- Google Sheets/Docs
+- Telegram or Signal
 
 ### Media monitoring and collaboration
 
