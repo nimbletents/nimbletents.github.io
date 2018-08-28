@@ -19,10 +19,10 @@
 
 ## Projet de recherche de crise
 
-- Roopika Risam
-- Alex Gil
 - Christina L. Boyles
+- Alex Gil
 - Erin Rose Glass
+- Roopika Risam
 - Danica Savonick
 - Angelika Strohmayer
 

@@ -19,10 +19,10 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Rapid Response Research
 
-- Roopika Risam
-- Alex Gil
 - Christina L. Boyles
+- Alex Gil
 - Erin Rose Glass
+- Roopika Risam
 - Danica Savonick
 - Angelika Strohmayer
 

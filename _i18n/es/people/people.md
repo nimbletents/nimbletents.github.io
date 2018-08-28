@@ -19,10 +19,10 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Investigación Rapida de Crisis
 
-- Roopika Risam
-- Alex Gil
 - Christina L. Boyles
+- Alex Gil
 - Erin Rose Glass
+- Roopika Risam
 - Danica Savonick
 - Angelika Strohmayer
 
