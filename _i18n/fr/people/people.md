@@ -17,10 +17,14 @@
 - Brandon Walsh
 - Sarah Whitcomb Lozier-Laiola
 
-## Le projet de crise
+## Projet de recherche de crise
 
-- Alex Gil
 - Roopika Risam
+- Alex Gil
+- Christina L. Boyles
+- Erin Rose Glass
+- Danica Savonick
+- Angelika Strohmayer
 
 ## Le sauvetage des données
 

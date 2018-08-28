@@ -17,10 +17,14 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Brandon Walsh
 - Sarah Whitcomb Lozier-Laiola
 
-## El Proyecto de Crisis
+## Investigación Rapida de Crisis
 
-- Alex Gil
 - Roopika Risam
+- Alex Gil
+- Christina L. Boyles
+- Erin Rose Glass
+- Danica Savonick
+- Angelika Strohmayer
 
 ## El Rescate de Datos
 
