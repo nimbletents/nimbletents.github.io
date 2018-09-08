@@ -1,16 +1,16 @@
 # Nimble Data Management
 
 Rapid Response Research (RRR), as “quickly deployed scholarly interventions,”
-especially relies on toolkits and nascent scholarways that aim to reduce
-obstacles in our paths or corners around which we have to slow to turn. The
+especially relies on toolkits and nascent scholarly approaches that aim to reduce
+obstacles on corners around which we have been too slow to turn. The
 introduction to RRR describes it from many different perspectives, including
-team management, makeup, scope, and the like. Here, instead, we will discuss
+team management, makeup, scope, and the like. Here we will discuss
 data management.
 
 Given the centrality of data acquisition and analysis to RRR, developing a
 data management plan, in order to lessen confusion and inconsistency when
-teams race to manipulate adjust the data for their own specific needs, becomes
-paramount. In fact, it such a plan should be part of the exploratory RRR work.
+teams race to manipulate and adjust the data for their own specific needs, becomes
+paramount. In fact, such a plan should be part of the exploratory RRR work.
 In lieu of a bullet list of best practices, here are two core concepts to RRR
 data management that extend even to data management in general: immutability
 and centrality.
