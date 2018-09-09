@@ -6,13 +6,16 @@ global:
   title: "The Nimble Tents Toolkit"
   description: "urgent responses for academic and cultural institutions"
   contribute: "Contribute"
+  comingsoon: "Coming Soon"
+  and: "and"
 
 titles:
   mapathon: "The Relief Mapathon"
   datarescue: "The Data Rescue"
-  libguide: "The Flash LibGuide"
+  libguide: "Flash LibGuides"
   people: "Credits"
   nights: "Nights Against Hate"
   home: "What is the Nimble Tents Toolkit?"
   contribute: "Contribute"
   rapidresponse: "Rapid Response Research"
+  datamanagement: "Nimble Data Management"

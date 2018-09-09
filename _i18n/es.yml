@@ -6,6 +6,8 @@ global:
   title: "Botiquín de campaña veloz"
   description: "Modelo de acción para instituciones académicas o culturales"
   contribute: "Contribuye"
+  comingsoon: "Próximamente"
+  and: "y"
 
 titles:
   mapathon: "El Mapatón de Ayuda"
@@ -16,3 +18,4 @@ titles:
   home: "¿Qué es el botiquín de campaña veloz?"
   contribute: "Contribuye"
   rapidresponse: "La Investigación Rápida"
+  datamanagement: "Gestión de datos veloz"

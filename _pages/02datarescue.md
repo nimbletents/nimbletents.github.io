@@ -1,6 +1,7 @@
 ---
 layout: draft
 title: titles.datarescue
+sidebar: False
 permalink: /datarescue/
 ---
 

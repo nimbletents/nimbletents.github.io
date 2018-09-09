@@ -58,7 +58,8 @@ Drawing on existing data sets is integral to working at speed. Useful sources fo
 - What are the implications of choices in language and terminology used to describe people or situations within the data? 
 - Are there ethical concerns about using this data, aggregating it, or contributing to it public dissemination?
 
-At least one member of your team—ideally more—should be responsible for thoroughly wrapping their mind around the data sets that will be used in the project. This becomes crucial as you move into the implementation phase of the project, particularly as other members of the team start working with the data sets. The people who clearly understand the data will be able to offer advice and guidance on how the data can and cannot be used or named, and they will have an intuitive sense of when visualizations seem inconsistent with the data. 
+At least one member of your team—ideally more—should be responsible for thoroughly wrapping their mind around the data sets that will be used in the project. This becomes crucial as you move into the implementation phase of the project, particularly as other members of the team start working with the data sets. The people who clearly understand the data will be able to offer advice and guidance on how the data can and cannot be used or named, and they will have an intuitive sense of when visualizations seem inconsistent with the data.
+
 
 ## Getting It Done 
 
@@ -112,6 +113,8 @@ Considering the main publishing mechanism for the results of your RRR will likel
 - Know that the project will be a one-off, not a generalized solution. Even if you use pre-existing templates, you are not creating a template with your project.
 - Avoid perfectionism.
 - Don't depend solely on visuals or interface. Leverage the power of prose, and let it do its work.
+
+Special attention should be paid to an effective Data Management strategy. Moacir de Sà Pereira has prepared a separate section, "<a href="{% tl datamanagement %}">Nimble Data Management</a>," that lays out a model with implications beyond RRR.
 
 Some common components that facilitate the development process:
 - D3/JavaScript/JSON/Leaflet

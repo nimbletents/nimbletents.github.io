@@ -1,3 +1,1 @@
-## La Investigación Rápida
-
-[en construcción]
+[{% t global.comingsoon %}]

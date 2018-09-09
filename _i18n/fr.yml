@@ -6,6 +6,8 @@ global:
   title: "Les tentes agiles"
   description: "Réponses rapides pour les institutions académiques et culturelles"
   contribute: "Contribuer"
+  comingsoon: "Arrive bientôt"
+  and: "et"
 
 titles:
   mapathon: "La cartopartie"
@@ -16,3 +18,4 @@ titles:
   home: "Qu'est-ce qu'une tente agile?"
   contribute: "Contribuer"
   rapidresponse: "La recherche rapide"
+  datamanagement: "Gestion de données agile"

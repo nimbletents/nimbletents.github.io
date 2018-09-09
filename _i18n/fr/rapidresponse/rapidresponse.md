@@ -1,3 +1,1 @@
-## La recherche rapide
-
-[à venir]
+[{% t global.comingsoon %}]
