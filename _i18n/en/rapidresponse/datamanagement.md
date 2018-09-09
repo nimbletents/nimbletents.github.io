@@ -1,14 +1,43 @@
-Rapid Response Research (RRR), as “quickly deployed scholarly interventions,” especially relies on toolkits and nascent scholarly approaches that aim to reduce obstacles on corners around which we have been too slow to turn. The introduction to RRR describes it from many different perspectives, including team management, makeup, scope, and the like. Here we will discuss data management.
+**Rapid Response Research (RRR)**, as “quickly deployed scholarly
+interventions,” especially relies on toolkits and nascent scholarly approaches
+that aim to reduce obstacles and smooth corners around which we have been too
+slow to turn. [The introduction to
+RRR](https://nimbletents.github.io/rapidresponse/) describes it from many
+different perspectives, including team management, makeup, scope, and the
+like. Here we will discuss data management.
 
-Given the centrality of data acquisition and analysis to RRR, developing a data management plan, in order to lessen confusion and inconsistency when teams race to manipulate and adjust the data for their own specific needs, becomes paramount. In fact, such a plan should be part of the exploratory RRR work. In lieu of a bullet list of best practices, here are two core concepts to RRR data management that extend even to data management in general: immutability and centrality.
+Given the centrality of data acquisition and analysis to RRR, it becomes
+paramount to develop a data management plan so as to lessen confusion and
+inconsistency when teams race to manipulate and adjust the data for their own
+specific needs. In fact, such a plan should be part of the exploratory RRR
+work. In lieu of a bullet list of best practices, however, here are two core
+concepts to RRR data management that also extend to data management in
+general: immutability and centrality.
 
 ### Immutability
 
 As data storage becomes cheaper, the service of treating data as immutable becomes more and more realizable.
 
-Having immutable data does not mean that the RRR team is not allowed to refine or analyze data they acquire. Instead, it merely recommends that all changes be made to ephemeral *copies* of the data. A similar process may be more familiar as, for example, [nondestructive editing](https://helpx.adobe.com/photoshop/using/nondestructive-editing.html) in an image or audio editing program, where all of the filters, crops, and changes occur such that the original photo or recording remains untouched. Similarly, a software solution like [Datomic](https://docs.datomic.com/on-prem/architecture.html) attaches immutability to its database architecture, where immutable facts are stored over time. Even Git, with its model of chained commits, comes close to representing a kind of immutability.
+Having immutable data does not mean that the RRR team is not allowed to refine
+or analyze data they acquire. Instead, it merely recommends that all changes
+be made to *ephemeral copies* of the data. Similar processes that might be
+more familiar include, for example [destructive
+editing](https://helpx.adobe.com/photoshop/using/nondestructive-editing.html)
+in an image or audio editing program, where all of the filters, crops, and
+changes occur such that the original photo or recording remains untouched.
+Similarly, a software solution like
+[Datomic](https://docs.datomic.com/on-prem/architecture.html) attaches
+immutability to its database architecture, where immutable facts are stored
+over time. Even Git, with its model of chained commits, comes close to
+representing a kind of immutability.
 
-At the cost of increased data storage, what these examples share is the ability to revert backward, to provide an “infinite undo.” So one instant win for the RRR team is that if a mistake gets fed into the data at the point of analysis, the Humpty Dumpty of the dataset *can* be put back together again. Of course, infinite undo is a feature in many modern applications, hinting that infinite undo alone insufficiently describes the benefits of immutability.
+At the cost of increased data storage, what these examples share is the
+ability to revert backward, to provide an “infinite undo.” So one instant win
+for the RRR team is that if a mistake gets fed into the data at the point of
+analysis, the Humpty Dumpty of the dataset *can* be put back together again.
+Of course, infinite undo is a feature in many modern applications, hinting
+that infinite undo alone insufficiently describes the benefits of
+immutability.
 
 More important to the RRR team are the gains in accountability, reproducibility, and multiplicity provided by having an immutable data store.
 
