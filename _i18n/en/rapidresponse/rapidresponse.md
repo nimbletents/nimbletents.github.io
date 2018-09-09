@@ -114,7 +114,7 @@ Considering the main publishing mechanism for the results of your RRR will likel
 - Avoid perfectionism.
 - Don't depend solely on visuals or interface. Leverage the power of prose, and let it do its work.
 
-Special attention should be paid to an effective Data Management strategy. Moacir de Sà Pereira has prepared a separate section, "<a href="{% tl datamanagement %}">Nimble Data Management</a>," that lays out a model with implications beyond RRR.
+Special attention should be paid to an effective Data Management strategy. Moacir P. de Sá Pereira has prepared a separate section, "<a href="{% tl datamanagement %}">Nimble Data Management</a>," that lays out a model with implications beyond RRR.
 
 Some common components that facilitate the development process:
 - D3/JavaScript/JSON/Leaflet
