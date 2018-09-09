@@ -23,7 +23,7 @@
 - Alex Gil
 - Erin Rose Glass
 - Roopika Risam
-- Moacir de Sà Pereira
+- Moacir de Sá Pereira
 - Danica Savonick
 - Angelika Strohmayer
 
