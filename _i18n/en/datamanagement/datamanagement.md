@@ -2,7 +2,7 @@
 interventions,” especially relies on toolkits and nascent scholarly approaches
 that aim to reduce obstacles and smooth corners around which we have been too
 slow to turn. [The introduction to
-RRR](https://nimbletents.github.io/rapidresponse/) describes it from many
+RRR]({% tl rapidresponse %}) describes it from many
 different perspectives, including team management, makeup, scope, and the
 like. Here we will discuss data management.
 
