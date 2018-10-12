@@ -7,6 +7,12 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Vika Zafrin
 - Jason Jones
 
+## Traductores
+
+- Alex Gil
+- Nadine Mondestin
+- Coral Salomón
+
 ## El Mapatón de Ayuda
 
 - Zoe Borovski
@@ -47,13 +53,10 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Reconocimientos
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Erin Rose Glass, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira, Danica Savonick, Angelika Strohmayer
+Manan Ahmed, Barbara Bartley, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie.
 
 ## Mantenimiento
 
 - Alex Gil
 
-## Traducción
 
-- Español: Alex Gil
-- Francés: Nadine Mondestin

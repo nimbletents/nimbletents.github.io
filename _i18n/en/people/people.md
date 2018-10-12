@@ -7,6 +7,12 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Vika Zafrin
 - Jason Jones
 
+## Translators
+
+- Alex Gil
+- Nadine Mondestin
+- Coral Salomón
+
 ## The Relief Mapathon
 
 - Zoe Borovski
@@ -48,13 +54,10 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 
 ## Acknowledgments
 
-Manan Ahmed, Barbara Bartley, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira
+Manan Ahmed, Barbara Bartley, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie
 
 ## Site Maintenance
 
 - Alex Gil
 
-## Translation
 
-- To Spanish: Alex Gil
-- To French: Nadine Mondestin

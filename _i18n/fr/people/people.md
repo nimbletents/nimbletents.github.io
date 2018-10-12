@@ -7,6 +7,12 @@
 - Vika Zafrin
 - Jason Jones
 
+## Traducteurs
+
+- Alex Gil
+- Nadine Mondestin
+- Coral Salomón
+
 ## La cartopartie
 
 - Zoe Borovski
@@ -49,13 +55,8 @@
 
 ## Remerciements
 
-Manan Ahmed, Barbara Bartley, Christina L. Boyles, Erin Rose Glass, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie, Moacir P. de Sá Pereira, Danica Savonick, Angelika Strohmayer
+Manan Ahmed, Barbara Bartley, Jason Heppler, Sarah W. Lozier, Paige Morgan, Bethany Nowviskie
 
 ## Maintenance du site
 
 - Alex Gil
-
-## Traducteurs
-
-- Espagnol: Alex Gil
-- Français: Nadine Mondestin
