@@ -1,3 +1,11 @@
+## Table of Contents
+{:.no_toc}
+
+* ToC
+{:toc}
+
+---
+
 ## What is Rapid Response Research?
 
 Rapid Response Research (RRR) projects are quickly deployed scholarly interventions in pressing political, social, and cultural crises. Together, teams of researchers, technologists, librarians, faculty, and students can pool their existing skills and knowledges to make swift and thoughtful contributions through digital scholarship in these times of crisis. The temporality of a rapid response is relative and will vary depending on the situation, from a matter of days, to a week, or several weeks. Our model below is relevant to the variable timelines a situation might require, but it bears remembering that a crisis itself has an immediacy, and that RRR projects, accordingly, bring with them a pressure to respond with intensity and speed. *[Torn Apart/Separados](http://xpmethod.plaintext.in/torn-apart/)* is an example of RRR. While the recommendations below are based on RRR *data narratives*, many elements could be more broadly applicable to other types of RRR.
