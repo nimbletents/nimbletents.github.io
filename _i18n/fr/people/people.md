@@ -27,10 +27,6 @@
 - Danica Savonick
 - Angelika Strohmayer
 
-## Le sauvetage des données
-
-- Laurie Allen
-
 ## Le libguide éclair
 
 - Jennifer Ferretti
@@ -39,7 +35,9 @@
 
 ## Nuits contre la haine
 
+- Ed Summers
 - Purdom Lindblad
+- Neil Fraistat
 
 
 ## Organisations partenaires

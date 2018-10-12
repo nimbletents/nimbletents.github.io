@@ -27,10 +27,6 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 - Danica Savonick
 - Angelika Strohmayer
 
-## El Rescate de Datos
-
-- Laurie Allen
-
 ## La Guía Relámpago
 
 - Jennifer Ferretti
@@ -38,7 +34,9 @@ El botiquín de campaña veloz es un proyecto colectivo, enriquecido por convers
 
 ## Noches en contra del odio
 
+- Ed Summers
 - Purdom Lindblad
+- Neil Fraistat
 
 ## Organizaciones asociadas
 

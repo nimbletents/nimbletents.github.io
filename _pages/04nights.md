@@ -1,7 +1,8 @@
 ---
 layout: draft
 title: titles.nights
-sidebar: False
+sidebar: True
 permalink: /nights/
 ---
+
 {% translate_file nights/nights.md %}

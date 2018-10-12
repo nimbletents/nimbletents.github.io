@@ -32,6 +32,12 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Jennifer Ferretti
 - Isabel Espinal
 
+## Nights Against Hate
+
+- Ed Summers
+- Purdom Lindblad
+- Neil Fraistat
+
 
 ## Partner Organizations
 
