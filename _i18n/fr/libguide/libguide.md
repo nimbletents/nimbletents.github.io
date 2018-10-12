@@ -1,1 +1,1 @@
-# The Flash Libguide
+[{% t global.comingsoon %}]

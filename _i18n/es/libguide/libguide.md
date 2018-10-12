@@ -1,1 +1,1 @@
-# La Guía Relámpago
+[{% t global.comingsoon %}]

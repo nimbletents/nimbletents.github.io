@@ -1,8 +1,2 @@
-## Contenido
-{:.no_toc}
-
-* ToC
-{:toc}
-
-## [Introducción]
+[{% t global.comingsoon %}]
 
