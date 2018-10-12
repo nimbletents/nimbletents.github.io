@@ -23,7 +23,7 @@ The Nimble Tents Toolkit is a community project that has been enriched by conver
 - Alex Gil
 - Erin Rose Glass
 - Roopika Risam
-- Moacir de Sá Pereira
+- Moacir P. de Sá Pereira
 - Danica Savonick
 - Angelika Strohmayer
 
