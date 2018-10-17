@@ -6,6 +6,8 @@
 
 ---
 
+[**Editorial Note:** We asked the team at MITH to do a write-up of their experience organizing the one-off event Nights Against Hate for the Toolkit. The team writes in a descriptive, rather than prescriptive voice below. We hope that you will able to extract the model, so to speak, from their example.]
+
 ## Introduction
 
 Social media platforms enable connection and sharing among friends, family and colleagues, while offering unprecedented opportunities for getting ideas out to much larger audiences. Political events such as the Arab Spring and social movements like Black Lives Matter show what important work is possible with social media at scale.
