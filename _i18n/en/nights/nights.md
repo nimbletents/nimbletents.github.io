@@ -1,4 +1,4 @@
-## Content
+## Contents
 {:.no_toc}
 
 * ToC
