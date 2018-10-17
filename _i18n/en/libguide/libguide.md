@@ -4,6 +4,8 @@
 * ToC
 {:toc}
 
+---
+
 ## What is a Flash Subject Guide?
 
 A Flash Subject Guide is a research guide and call to learning in response to urgent challenges facing communities served by librarians and libraries. They have much in common with the "Topical Syllabus" that teachers are producing. The difference lies in the ways we rhetorically frame bibliographies for the classroom, and the way we frame library guides for research and learning outside of the classroom. For all intents and purposes, this guide is also useful for those looking to design a syllabus as opposed to a guide.
