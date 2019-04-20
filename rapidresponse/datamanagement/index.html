@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+      The Nimble Tents Toolkit
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <!-- OpenGraph -->
+    <meta property="og:title" content="The Nimble Tents Toolkit"/>
+    <meta property="og:description" content="A toolkit to help cultural and academic organizations respond rapidly to events in the anthropocene and its attendant threats.">
+    <meta property="fb:admins" content="elotroalex"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://nimbletents.github.io/rapidresponse/datamanagement/"/>
+    <meta property="fb:app_id" content="589495744558280"/>
+    <meta property="og:image" content="http://nimbletents.github.io/images/hummingbird-open-graph.png"/>
+    <meta property="og:image:width" content="200" />
+    <meta property="og:image:height" content="200" />
+</head>
+
+
+  <body class="theme-base-0b">
+    
+
+    <?xml version="1.0" encoding="UTF-8"?>
+<div class="sidebar">
+  <!--  <div class="container sidebar-sticky"> -->
+  <div align="center">
+    <div class="sidebar-about">
+      <a href="/">
+        <h1>The Nimble Tents Toolkit</h1>
+      </a>
+        <img src="/images/hummingbird.png" width="250" height="150"/>
+    </div>
+    <ul class="sidebar-nav">
+      <!-- The list below is dynamically generated using "% t node.title %" instead of  "{ node.title}" -->
+      
+            
+                    
+                              
+          <li class="sidebar-nav-item">
+            <a href="/mapathon/">The Relief Mapathon</a>
+          </li>
+                              
+                    
+            
+                    
+                              
+          <li class="sidebar-nav-item">
+            <a href="/rapidresponse/">Rapid Response Research</a>
+          </li>
+                              
+                    
+            
+                    
+                              
+                    
+            
+                    
+                              
+          <li class="sidebar-nav-item">
+            <a href="/libguide/">Flash Subject Guides</a>
+          </li>
+                              
+                    
+            
+                    
+                              
+          <li class="sidebar-nav-item">
+            <a href="/nights/">Nights Against Hate</a>
+          </li>
+                              
+                    
+            
+                    
+                              
+          <li class="sidebar-nav-item">
+            <a href="/contribute/">Contribute</a>
+          </li>
+                              
+                    
+            
+                    
+                              
+          <li class="sidebar-nav-item">
+            <a href="/people/">Credits</a>
+          </li>
+                              
+                    
+            
+                    
+                              
+                    
+            
+                    
+            
+                    
+                              
+                    
+            
+                    
+                              
+                    
+            
+<!--           <br> -->
+<!--           <li class="sidebar-nav-item">Coming Soon: Nights Against Hate</li> -->
+      </ul>
+
+        
+          <p class="languages">
+                <a href="/es/rapidresponse/datamanagement/">en español</a>
+        <br>
+            <a href="/fr/rapidresponse/datamanagement/">en français</a>
+          </p>
+
+        
+
+      <p>
+        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+        </a>
+      </p>
+        </div>
+      </div>
+
+
+
+    <div class="content container">
+      <div class="page">
+  <h1 class="page-title">Nimble Data Management</h1>
+  <p><strong>Rapid Response Research (RRR)</strong>, as “quickly deployed scholarly
+interventions,” especially relies on toolkits and nascent scholarly approaches
+that aim to reduce obstacles and smooth corners around which we have been too
+slow to turn. <a href="/rapidresponse/">The introduction to
+RRR</a> describes it from many
+different perspectives, including team management, makeup, scope, and the
+like. Here we will discuss data management.</p>
+
+<p>Given the centrality of data acquisition and analysis to RRR, it becomes
+paramount to develop a data management plan so as to lessen confusion and
+inconsistency when teams race to manipulate and adjust the data for their own
+specific needs. In fact, such a plan should be part of the exploratory RRR
+work. In lieu of a bullet list of best practices, however, here are two core
+concepts to RRR data management that also extend to data management in
+general: immutability and centrality.</p>
+
+<h3 id="immutability">Immutability</h3>
+
+<p>As data storage becomes cheaper, the service of treating data as immutable becomes more and more realizable.</p>
+
+<p>Having immutable data does not mean that the RRR team is not allowed to refine
+or analyze data they acquire. Instead, it merely recommends that all changes
+be made to <em>ephemeral copies</em> of the data. Similar processes that might be
+more familiar include, for example <a href="https://helpx.adobe.com/photoshop/using/nondestructive-editing.html">destructive
+editing</a>
+in an image or audio editing program, where all of the filters, crops, and
+changes occur such that the original photo or recording remains untouched.
+Similarly, a software solution like
+<a href="https://docs.datomic.com/on-prem/architecture.html">Datomic</a> attaches
+immutability to its database architecture, where immutable facts are stored
+over time. Even Git, with its model of chained commits, comes close to
+representing a kind of immutability.</p>
+
+<p>At the cost of increased data storage, what these examples share is the
+ability to revert backward, to provide an “infinite undo.” So one instant win
+for the RRR team is that if a mistake gets fed into the data at the point of
+analysis, the Humpty Dumpty of the dataset <em>can</em> be put back together again.
+Of course, infinite undo is a feature in many modern applications, hinting
+that infinite undo alone insufficiently describes the benefits of
+immutability.</p>
+
+<p>More important to the RRR team are the gains in accountability, reproducibility, and multiplicity provided by having an immutable data store.</p>
+
+<h4 id="accountability">Accountability</h4>
+
+<p>In an RRR situation, the team will probably be collecting, harvesting, capturing, or in some other way extending control over data that has been prepared by others. Under ideal circumstances, the collection process is downloading a mere table or scraping a single website. Nevertheless, even at that point, accountability is important. Where, when, by whom, and how data was acquired should be recorded alongside the actual data itself. Furthermore, the more automated the process of acquisition is (through scrapers or scripts), the better. Though relying on an automated process to harvest someone else’s data is always risky, as they can change the format, API, or whatever at any given moment, the narrow window of effective RRR might provide accountability and transparency in terms of data acquisition.</p>
+
+<p>Once the data is acquired, of course, by treating it as immutable, the RRR team maintains their strong link to remaining accountable for the data capture. They can always return to the first captured version of the data and provide it to other members of the team or outside scholars.</p>
+
+<h4 id="reproducibility">Reproducibility</h4>
+
+<p>In the same vein as accountability, reproducibility limits the possibilities for error to creep into the data, thereby keeping the RRR team accountable. This is why, if possible, automation is preferred for all tasks. The data should be acquired automatically. Next, it should be refined automatically. Then, it should be parsed, filtered, and remapped automatically.</p>
+
+<p>Here, the relationship between data immutability and functional programming becomes clearer. <a href="https://medium.freecodecamp.org/write-safer-and-cleaner-code-by-leveraging-the-power-of-immutability-7862df04b7b6">Functional programming</a> advocates for removing side effects and having reproducible actions that, given the same inputs, will always return the same outputs. The result is code that more directly reveals its implementation to third parties.</p>
+
+<p>That is, if work is automated and only done on ephemeral copies of the original data, the various sorts, filters, calculations, and capitalizations we associate with “cleaning” or “refining” data become more transparent, more predictable, undoable, and, of course, fixable. If at first, for example, we limit our imaginary dataset of rabbits to those that live in fields and later decide we also want to track rabbits who live in hills, we simply have to adjust the implementation at the filter stage.</p>
+
+<h4 id="multiplicity">Multiplicity</h4>
+
+<p>Having an immutable datastore where analysis is done on ephemeral copies of the data using filters and other functions also lends itself to constructing multiple pictures of the same dataset. For example, perhaps one RRR data narrative focuses on the ages of rabbits, while another focuses on the colors of their fur. When the decision is made to include hill rabbits in addition to field rabbits, both data narratives instantly incorporate the new rabbits added to the analysis. However, to ensure the most utility from multiplicity the team must consider the second key concept in RRR data management, centrality.</p>
+
+<h3 id="centrality">Centrality</h3>
+
+<p>While gathering data and researching, collected and captured fragments of information are typically heterogeneous and don’t really speak to each other. You could be looking at two groups of entities that are semantically related (rabbits and warrens) but that, nevertheless, have widely divergent lists of properties.</p>
+
+<p>The ultimate goal of centrality is a <strong>single source of truth (SST)</strong>. Towards that end, it’s useful to always have consolidation in mind when gathering data. Under ideal circumstances, a single, atomic unit emerges that provides the data context of the RRR project. This unit might not be the central point of interest of the project or of certain narratives, but it still ends up being what ties the data together.</p>
+
+<p>For example, perhaps you are tracking environmental change on hills and fields. But your data is on specific rabbits. Rabbits stand as the atomic unit, but it will become possible later to abstract out data (average age, fur colors) about the rabbits from the frame of reference of hills and fields.</p>
+
+<p>The SST should be a table of these atomic units as rows and properties as columns. We recommend sticking, for now, to one model only. That is, one type of entity and its myriad properties. This challenges the object-oriented or relational-database paradigms many of us are familiar with, but flattening the data like this encourages, we believe, thinking about the data in immutable and centralized terms.</p>
+
+<p>Centrality and immutability reinforce each other, because generating ephemeral copies of the SST encourages that the SST remains accountable, reproducible, and fertile enough for generating even more subdatasets. Hence, these mutually informing concepts should help guide people engaging in RRR so that they can remain maximally transparent, minimally error-prone, and, most important, free to confidently take their data and use it to tell the stories it can.</p>
+
+</div>
+
+
+    </div>
+
+
+  </body>
+</html>

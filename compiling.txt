@@ -1,0 +1,2 @@
+1. Make changes to source branch.
+2. rake prod:publish
